@@ -15,7 +15,6 @@ O objetivo final é construir um modelo que possa prever se um cliente vai deixa
 # Como Rodar o Projeto
 
 Clone o repositório
-- git clone https://github.com/seu_usuario/churn-analysis.git
-
+- git clone https://github.com/Vinh0la/NextGen-Sprint-III.git
 Instale as dependências:
 - pip install -r requirements.txt
